@@ -5,13 +5,14 @@
 - You can watch and study these lessons until new lessons are upload to the channel with its assignments
 
 ## Browser Object Model [BOM]
+- [innerHeight, innerWidth](https://www.youtube.com/watch?v=O_dPowQjpC4)
 - [Window Navigator Properties](https://www.youtube.com/watch?v=u8J90PsJIhA)
 - [Window Screen Properties](https://www.youtube.com/watch?v=D8SVbXcPJv4)
 - [Cookies Part 1](https://www.youtube.com/watch?v=Vni26KoBSL4)
 - [Cookies Part 2](https://www.youtube.com/watch?v=xXuFQvjegrw)
-- [Control Local Storage - Create Markup and Styling](https://www.youtube.com/watch?v=qMWbWWaC2u8) ???
-- [Control Local Storage - Create All Functions Part 1](https://www.youtube.com/watch?v=8OWuqTDTo6s) ???
-- [Control Local Storage - Create All Functions Part 2](https://www.youtube.com/watch?v=DGt1kFCzy7w) ???
+- [Local Storage - Create Markup and Styling](https://www.youtube.com/watch?v=qMWbWWaC2u8) (Optional - Just intro is important and the rest about markup and styling)
+- [Local Storage - Create All Functions Part 1](https://www.youtube.com/watch?v=8OWuqTDTo6s)
+- [Local Storage - Create All Functions Part 2](https://www.youtube.com/watch?v=DGt1kFCzy7w)
 
 ## Array And Objects Methods
 - [New Array Methods 1](https://www.youtube.com/watch?v=HZLBy8JjAjk)
@@ -26,7 +27,7 @@
 - [Destructuring Object Part 1](https://www.youtube.com/watch?v=K1dREWSo--E)
 - [Destructuring Object Part 2](https://www.youtube.com/watch?v=JBgea2lLaq0)
 - [Swap Variables](https://www.youtube.com/watch?v=XkbYgKrK5kU)
-[Spread Operator](https://www.youtube.com/watch?v=G5DoUC3pPa0)
+- [Spread Operator](https://www.youtube.com/watch?v=G5DoUC3pPa0)
 
 ## Date
 - [Date - Introduction](https://www.youtube.com/watch?v=d2Ht2VErMUM)
@@ -36,7 +37,7 @@
 - [Date - Methods Part 3](https://www.youtube.com/watch?v=oyaaLXEojxg)
 
 ## Object Oriented Programming
-- [Learn JavaScript OOP Playlist(26 Videos)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
+- [Learn JavaScript OOP Playlist (26 Videos)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
 
 ## Generators And Modules
 - [Generators Part 1](https://www.youtube.com/watch?v=vS1rhGoRcCQ)
@@ -56,7 +57,7 @@
 - [XMLHTTPRequest Part 1](https://www.youtube.com/watch?v=MaE4Yossouw)
 - [XMLHTTPRequest Part 2](https://www.youtube.com/watch?v=zmGcdngmQzU)
 - [Loop On Responses](https://www.youtube.com/watch?v=9U_-zrNXG28)
-- [Real Life Examples Of AJAX Call](https://www.youtube.com/watch?v=ZsSXDE3R3Ps) ???
+- [Real Life Examples Of AJAX Call](https://www.youtube.com/watch?v=ZsSXDE3R3Ps)
 - [Promise Intro](https://www.youtube.com/watch?v=XFMxDnQ561E)
 - [Your First Promise](https://www.youtube.com/watch?v=9achN8McQfI)
 - [Then And Catch](https://www.youtube.com/watch?v=WB-TmhB6zyU)
