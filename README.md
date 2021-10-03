@@ -1,4 +1,4 @@
-# Elzero Web School - JavaScript Bootcamp Unreleased Lessons (Unreviewed)
+# Elzero Web School - JavaScript Bootcamp Unreleased Lessons
 
 - This Repository for All JavaScript Bootcamp unreleased lessons
 - The main source of the lessons is Elzero Web School channel (Old Videos)
@@ -51,7 +51,6 @@
 ## Asynchronous JavaScript Programming
 - [Asynchronous vs Synchronous](https://www.youtube.com/watch?v=cJIH3qPR_B8)
 - [CallStack, WebAPI, Event Loop, Callback Queue](https://www.youtube.com/watch?v=uaphx2xjDKc)
-- [Pyramid Of Doom](https://www.youtube.com/watch?v=gXPA14KDJag)
 - [What Is AJAX ?](https://www.youtube.com/watch?v=6tLeMfOxIyA)
 - [Network Requests And Status Code](https://www.youtube.com/watch?v=pUDKGqRJwxU)
 - [XMLHTTPRequest Part 1](https://www.youtube.com/watch?v=MaE4Yossouw)
@@ -62,12 +61,14 @@
 - [Your First Promise](https://www.youtube.com/watch?v=9achN8McQfI)
 - [Then And Catch](https://www.youtube.com/watch?v=WB-TmhB6zyU)
 - [XHR And Promise](https://www.youtube.com/watch?v=W7ze0GfRbXs)
+- [Ignoring The Pyramid Of Doom](https://www.youtube.com/watch?v=gXPA14KDJag)
+- [Promise - Fetch And Training](https://www.youtube.com/watch?v=qALCndz0z0g)
 - [Promise All And Race](https://www.youtube.com/watch?v=W_GUVg_VPhQ)
 - Async (Not available, search for it)
 - Await (Not available, search for it)
 - Error Handling (Not available, search for it)
 - Promise With Async / Await (Not available, search for it)
-- Fetch API (Not available, search for it)
+- Fetch API (Search for it)
 - Axios (Not available, search for it)
 
 ## Regular Expressions
