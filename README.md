@@ -21,11 +21,11 @@
 - Object Methods Part 2 (Not available, search for it)
 - Object Methods Part 3 (Not available, search for it)
 ## Advanced Concepts
+- [Destructuring Object Part 1](https://www.youtube.com/watch?v=K1dREWSo--E)
+- [Destructuring Object Part 2](https://www.youtube.com/watch?v=JBgea2lLaq0)
 - [Destructuring Array Part 1](https://www.youtube.com/watch?v=B2cICpp1oXY)
 - [Destructuring Array Part 2](https://www.youtube.com/watch?v=pp2iZpM-Ijg)
 - [Destructuring Function Parameters](https://www.youtube.com/watch?v=1Ii4ru5X09o)
-- [Destructuring Object Part 1](https://www.youtube.com/watch?v=K1dREWSo--E)
-- [Destructuring Object Part 2](https://www.youtube.com/watch?v=JBgea2lLaq0)
 - [Swap Variables](https://www.youtube.com/watch?v=XkbYgKrK5kU)
 - [Spread Operator](https://www.youtube.com/watch?v=G5DoUC3pPa0)
 
