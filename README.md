@@ -10,9 +10,6 @@
 - [Window Screen Properties](https://www.youtube.com/watch?v=D8SVbXcPJv4)
 - [Cookies Part 1](https://www.youtube.com/watch?v=Vni26KoBSL4)
 - [Cookies Part 2](https://www.youtube.com/watch?v=xXuFQvjegrw)
-- [Local Storage - Create Markup and Styling](https://www.youtube.com/watch?v=qMWbWWaC2u8) (Optional - Just intro is important and the rest about markup and styling)
-- [Local Storage - Create All Functions Part 1](https://www.youtube.com/watch?v=8OWuqTDTo6s)
-- [Local Storage - Create All Functions Part 2](https://www.youtube.com/watch?v=DGt1kFCzy7w)
 
 ## Array And Objects Methods
 - [New Array Methods 1](https://www.youtube.com/watch?v=HZLBy8JjAjk)
