@@ -39,6 +39,12 @@
 ## Object Oriented Programming
 - [Learn JavaScript OOP Playlist (26 Videos)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
 
+## Symbols And Iterables (Required to understand Generators)
+- [Symbols Part 1](https://www.youtube.com/watch?v=9GnvEv8NuDM)
+- [Symbols Part 2](https://www.youtube.com/watch?v=6we4yfwKs2w)
+- [Symbol Iterator And For of Loop](https://www.youtube.com/watch?v=JW2_9b6w494)
+- [Custom Iterable Object](https://www.youtube.com/watch?v=GrgmnODN_Nc)
+
 ## Generators And Modules
 - [Generators Part 1](https://www.youtube.com/watch?v=vS1rhGoRcCQ)
 - [Generators Part 2](https://www.youtube.com/watch?v=IvTSle8lDKw)
