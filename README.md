@@ -1,8 +1,9 @@
 # Elzero Web School - JavaScript Bootcamp Unreleased Lessons
 
-- This Repository for All JavaScript Bootcamp unreleased lessons
-- The main source of the lessons is Elzero Web School channel (Old Videos)
+- The plan for all [JavaScript Bootcamp](https://github.com/ElzeroWebSchool/JavaScript_Bootcamp) unreleased lessons
+- The main source of the lessons is [Elzero Web School channel](https://www.youtube.com/c/ElzeroInfo) (Old Videos)
 - You can watch and study these lessons until new lessons are upload to the channel with its assignments
+- It is better to watch the lessons in the same order as the plan and search for the unavailable lessons
 
 ## Browser Object Model [BOM]
 - [innerHeight, innerWidth](https://www.youtube.com/watch?v=O_dPowQjpC4)
@@ -14,9 +15,9 @@
 ## Array And Objects Methods
 - [New Array Methods 1](https://www.youtube.com/watch?v=HZLBy8JjAjk)
 - [New Array Methods 2](https://www.youtube.com/watch?v=5IjwYU92Hnc)
-- Object Methods Part 1 (Not available, search for it)
-- Object Methods Part 2 (Not available, search for it)
-- Object Methods Part 3 (Not available, search for it)
+- Object Methods Part 1 (Search for it)
+- Object Methods Part 2 (Search for it)
+- Object Methods Part 3 (Search for it)
 ## Advanced Concepts
 - [Destructuring Object Part 1](https://www.youtube.com/watch?v=K1dREWSo--E)
 - [Destructuring Object Part 2](https://www.youtube.com/watch?v=JBgea2lLaq0)
@@ -46,8 +47,8 @@
 - [Modules Part 3](https://www.youtube.com/watch?v=yEg-Z6dzkwQ)
 
 ## Asynchronous JavaScript Programming
-- [Asynchronous vs Synchronous](https://www.youtube.com/watch?v=cJIH3qPR_B8)
 - [CallStack, WebAPI, Event Loop, Callback Queue](https://www.youtube.com/watch?v=uaphx2xjDKc)
+- [Asynchronous vs Synchronous](https://www.youtube.com/watch?v=cJIH3qPR_B8)
 - [What Is AJAX ?](https://www.youtube.com/watch?v=6tLeMfOxIyA)
 - [Network Requests And Status Code](https://www.youtube.com/watch?v=pUDKGqRJwxU)
 - [XMLHTTPRequest Part 1](https://www.youtube.com/watch?v=MaE4Yossouw)
@@ -61,12 +62,12 @@
 - [Ignoring The Pyramid Of Doom](https://www.youtube.com/watch?v=gXPA14KDJag)
 - [Promise - Fetch And Training](https://www.youtube.com/watch?v=qALCndz0z0g)
 - [Promise All And Race](https://www.youtube.com/watch?v=W_GUVg_VPhQ)
-- Async (Not available, search for it)
-- Await (Not available, search for it)
-- Error Handling (Not available, search for it)
-- Promise With Async / Await (Not available, search for it)
+- Async (Search for it)
+- Await (Search for it)
+- Error Handling (Search for it)
+- Promise With Async / Await (Search for it)
 - Fetch API (Search for it)
-- Axios (Not available, search for it)
+- Axios (Search for it)
 
 ## Regular Expressions
 - [Regular Expression - Intro](https://www.youtube.com/watch?v=WJGGkeuQPvo)
