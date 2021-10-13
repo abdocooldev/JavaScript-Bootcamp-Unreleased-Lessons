@@ -1,4 +1,4 @@
-![JavaScript Bootcamp Unreleased Lessons](https://lh3.googleusercontent.com/X5M1YPpIxpKQS9rtlH5_VuoZz-5em-iT1OBcuiaHcApnTZubvij_-cyap6TCpdTc9zYn3lquANoqxhggPv7dv8mB7b0EBoYUa426QoDOgK6o0c0wthUGwmWEes1B0Nmcdedam3zq_A1Jqf4riUvnSfO-hnQXH369HxSFiLjbIGCs4LN05zarXD1MTipVBTWSpPqCGudN95Bw13sxIFu2foUW4CeV9RPQU4JO8batvs1aHJG83CYERUoqQW2gcxsyr-FkVJVm6797IHbXoTgsOXMJmIS1PAK_teaMP5SBbKea_VGpo4coawXYCJR-cfLERIKi0PN_KGJHRBhnvESpPUfuxH5Gnl0c63MnNq79plASMYGZVM7Bkixa7o7gqyjuBCpj9fmSEiRwSBWzc6dN3qw0Ukax8Q06xrqghsT9hSLXDlPoobjL_jjlTtJtkWFPXtbNXXRIF43z80k9etZzxi7QUQ-FDZ7BtCCGyuLcG2B_FrOPiwfRpem6Ki0rDbXgSjZIVwnn9W26nzZFiGFsIbhpODqrbO3xR6dU7wfbpeTjixk8Xz09J5EEcAsriZMtswM32cedp14E4hYvFlou62u6aMoeRgtWi6N0XCIKnkz9ziXPiOG-Z2llZ8rVj6GDyrrWXB1FaT-5wqUYwRRYB8uQwmiI3yp_U3JRZU9eWzdTJIJW94ki01pMXJibqGJ2QwvAUcXkmfbF8g6YpcTgIZ4=w970-h458-no?authuser=0)
+![JavaScript Bootcamp Unreleased Lessons](./JavaScript-Bootcamp-Unreleased-Lessons.jpg)
 
 # Elzero Web School - JavaScript Bootcamp Unreleased Lessons
 
@@ -8,6 +8,7 @@
 - It is better to watch the lessons in the same order as the plan and search for the unavailable lessons
 
 ## Browser Object Model [BOM]
+
 - [innerHeight, innerWidth](https://www.youtube.com/watch?v=O_dPowQjpC4)
 - [Window Navigator Properties](https://www.youtube.com/watch?v=u8J90PsJIhA)
 - [Window Screen Properties](https://www.youtube.com/watch?v=D8SVbXcPJv4)
@@ -15,12 +16,15 @@
 - [Cookies Part 2](https://www.youtube.com/watch?v=xXuFQvjegrw)
 
 ## Array And Objects Methods
+
 - [New Array Methods 1](https://www.youtube.com/watch?v=HZLBy8JjAjk)
 - [New Array Methods 2](https://www.youtube.com/watch?v=5IjwYU92Hnc)
 - Object Methods Part 1 (Search for it)
 - Object Methods Part 2 (Search for it)
 - Object Methods Part 3 (Search for it)
+
 ## Advanced Concepts
+
 - [Destructuring Object Part 1](https://www.youtube.com/watch?v=K1dREWSo--E)
 - [Destructuring Object Part 2](https://www.youtube.com/watch?v=JBgea2lLaq0)
 - [Destructuring Array Part 1](https://www.youtube.com/watch?v=B2cICpp1oXY)
@@ -30,6 +34,7 @@
 - [Spread Operator](https://www.youtube.com/watch?v=G5DoUC3pPa0)
 
 ## Date
+
 - [Date - Introduction](https://www.youtube.com/watch?v=d2Ht2VErMUM)
 - [Date - Formatting](https://www.youtube.com/watch?v=X-8D-R44FVY)
 - [Date - Methods Part 1](https://www.youtube.com/watch?v=RD-UOqZSI50)
@@ -37,15 +42,18 @@
 - [Date - Methods Part 3](https://www.youtube.com/watch?v=oyaaLXEojxg)
 
 ## Object Oriented Programming
+
 - [Learn JavaScript OOP Playlist (26 Videos)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
 
 ## Symbols And Iterables (Required to understand Generators)
+
 - [Symbols Part 1](https://www.youtube.com/watch?v=9GnvEv8NuDM)
 - [Symbols Part 2](https://www.youtube.com/watch?v=6we4yfwKs2w)
 - [Symbol Iterator And For of Loop](https://www.youtube.com/watch?v=JW2_9b6w494)
 - [Custom Iterable Object](https://www.youtube.com/watch?v=GrgmnODN_Nc)
 
 ## Generators And Modules
+
 - [Generators Part 1](https://www.youtube.com/watch?v=vS1rhGoRcCQ)
 - [Generators Part 2](https://www.youtube.com/watch?v=IvTSle8lDKw)
 - [Generators Part 3](https://www.youtube.com/watch?v=96yAeYvAhec)
@@ -55,6 +63,7 @@
 - [Modules Part 3](https://www.youtube.com/watch?v=yEg-Z6dzkwQ)
 
 ## Asynchronous JavaScript Programming
+
 - [CallStack, WebAPI, Event Loop, Callback Queue](https://www.youtube.com/watch?v=uaphx2xjDKc)
 - [Asynchronous vs Synchronous](https://www.youtube.com/watch?v=cJIH3qPR_B8)
 - [What Is AJAX ?](https://www.youtube.com/watch?v=6tLeMfOxIyA)
@@ -78,6 +87,7 @@
 - Axios (Search for it)
 
 ## Regular Expressions
+
 - [Regular Expression - Intro](https://www.youtube.com/watch?v=WJGGkeuQPvo)
 - [Regular Expression - Brackets](https://www.youtube.com/watch?v=b46tXAPFayY)
 - [Regular Expression - Quantifiers](https://www.youtube.com/watch?v=X2HUJelL12U)
