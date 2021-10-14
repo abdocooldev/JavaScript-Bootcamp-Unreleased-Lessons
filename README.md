@@ -62,6 +62,17 @@
 - [Modules Part 2](https://www.youtube.com/watch?v=0WLa_FWoZpc)
 - [Modules Part 3](https://www.youtube.com/watch?v=yEg-Z6dzkwQ)
 
+## JSON (Recommended)
+
+- [Intro And Why JSON?](https://www.youtube.com/watch?v=CLpmD7hxiBs)
+- [Syntax And Data Types](https://www.youtube.com/watch?v=UgqTbbAn_-c)
+- [API Overview And JSON Tools](https://www.youtube.com/watch?v=XCaDp94OCHw)
+- [Complex JSON Object And Compare With JS](https://www.youtube.com/watch?v=bcok_QP9TuY)
+- [Accessing JSON Data](https://www.youtube.com/watch?v=BsPSfqCjh3Y)
+- [Parse And Stringify With JavaScript](https://www.youtube.com/watch?v=D_-jeFIhHsc)
+- [JSON Encode And Decode With PHP](https://www.youtube.com/watch?v=CmMtNi5xNzY)
+- [Practice On Converting Objects And Data](https://www.youtube.com/watch?v=2WXtFtTSafs)
+
 ## Asynchronous JavaScript Programming
 
 - [CallStack, WebAPI, Event Loop, Callback Queue](https://www.youtube.com/watch?v=uaphx2xjDKc)
