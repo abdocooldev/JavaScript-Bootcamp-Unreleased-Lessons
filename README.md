@@ -7,14 +7,6 @@
 - You can watch and study these lessons until new lessons are upload to the channel with its assignments
 - It is better to watch the lessons in the same order as the plan and search for the unavailable lessons
 
-## Browser Object Model [BOM]
-
-- [innerHeight, innerWidth](https://www.youtube.com/watch?v=O_dPowQjpC4)
-- [Window Navigator Properties](https://www.youtube.com/watch?v=u8J90PsJIhA)
-- [Window Screen Properties](https://www.youtube.com/watch?v=D8SVbXcPJv4)
-- [Cookies Part 1](https://www.youtube.com/watch?v=Vni26KoBSL4)
-- [Cookies Part 2](https://www.youtube.com/watch?v=xXuFQvjegrw)
-
 ## Array And Objects Methods
 
 - [New Array Methods 1](https://www.youtube.com/watch?v=HZLBy8JjAjk)
