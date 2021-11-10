@@ -7,23 +7,24 @@
 - You can watch and study these lessons until new lessons are upload to the channel with its assignments
 - It is better to watch the lessons in the same order as the plan and search for the unavailable lessons
 
-## Array And Objects Methods
-
-- [New Array Methods 1](https://www.youtube.com/watch?v=HZLBy8JjAjk)
-- [New Array Methods 2](https://www.youtube.com/watch?v=5IjwYU92Hnc)
-- Object Methods Part 1 (Search for it)
-- Object Methods Part 2 (Search for it)
-- Object Methods Part 3 (Search for it)
-
-## Advanced Concepts
+## Destructuring
 
 - [Destructuring Object Part 1](https://www.youtube.com/watch?v=K1dREWSo--E)
 - [Destructuring Object Part 2](https://www.youtube.com/watch?v=JBgea2lLaq0)
 - [Destructuring Array Part 1](https://www.youtube.com/watch?v=B2cICpp1oXY)
 - [Destructuring Array Part 2](https://www.youtube.com/watch?v=pp2iZpM-Ijg)
+- [Destructuring Array Part 3 (Swap Variables)](https://www.youtube.com/watch?v=XkbYgKrK5kU)
+- [Destructuring Mixed Content](https://www.youtube.com/watch?v=_Zk2OY2gL-I)
 - [Destructuring Function Parameters](https://www.youtube.com/watch?v=1Ii4ru5X09o)
-- [Swap Variables](https://www.youtube.com/watch?v=XkbYgKrK5kU)
+
+## Array And Objects Methods And Advanced Concepts
+
 - [Spread Operator](https://www.youtube.com/watch?v=G5DoUC3pPa0)
+- [New Array Methods 1](https://www.youtube.com/watch?v=HZLBy8JjAjk)
+- [New Array Methods 2](https://www.youtube.com/watch?v=5IjwYU92Hnc)
+- Object Methods Part 1 (Search for it)
+- Object Methods Part 2 (Search for it)
+- Object Methods Part 3 (Search for it)
 
 ## Date
 
