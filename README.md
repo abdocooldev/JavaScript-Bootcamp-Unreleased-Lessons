@@ -7,16 +7,6 @@
 - You can watch and study these lessons until new lessons are upload to the channel with its assignments
 - It is better to watch the lessons in the same order as the plan and search for the unavailable lessons
 
-## Destructuring
-
-- [Destructuring Object Part 1](https://www.youtube.com/watch?v=K1dREWSo--E)
-- [Destructuring Object Part 2](https://www.youtube.com/watch?v=JBgea2lLaq0)
-- [Destructuring Array Part 1](https://www.youtube.com/watch?v=B2cICpp1oXY)
-- [Destructuring Array Part 2](https://www.youtube.com/watch?v=pp2iZpM-Ijg)
-- [Destructuring Array Part 3 (Swap Variables)](https://www.youtube.com/watch?v=XkbYgKrK5kU)
-- [Destructuring Mixed Content](https://www.youtube.com/watch?v=_Zk2OY2gL-I)
-- [Destructuring Function Parameters](https://www.youtube.com/watch?v=1Ii4ru5X09o)
-
 ## Array And Objects Methods And Advanced Concepts
 
 - [Spread Operator](https://www.youtube.com/watch?v=G5DoUC3pPa0)
