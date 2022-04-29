@@ -15,9 +15,6 @@
 - [Date - Methods Part 2](https://www.youtube.com/watch?v=D2oQJXDMnS0)
 - [Date - Methods Part 3](https://www.youtube.com/watch?v=oyaaLXEojxg)
 
-## Object Oriented Programming
-
-- [Learn JavaScript OOP Playlist (26 Videos)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
 
 ## Symbols And Iterables (Required to understand Generators)
 
@@ -70,9 +67,3 @@
 - Promise With Async / Await (Search for it)
 - Fetch API (Search for it)
 - Axios (Search for it)
-
-## Regular Expressions
-
-- [Regular Expression - Intro](https://www.youtube.com/watch?v=WJGGkeuQPvo)
-- [Regular Expression - Brackets](https://www.youtube.com/watch?v=b46tXAPFayY)
-- [Regular Expression - Quantifiers](https://www.youtube.com/watch?v=X2HUJelL12U)
