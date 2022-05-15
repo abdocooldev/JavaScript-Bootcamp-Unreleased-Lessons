@@ -7,32 +7,6 @@
 - You can watch and study these lessons until new lessons are upload to the channel with its assignments
 - It is better to watch the lessons in the same order as the plan and search for the unavailable lessons
 
-## Date
-
-- [Date - Introduction](https://www.youtube.com/watch?v=d2Ht2VErMUM)
-- [Date - Formatting](https://www.youtube.com/watch?v=X-8D-R44FVY)
-- [Date - Methods Part 1](https://www.youtube.com/watch?v=RD-UOqZSI50)
-- [Date - Methods Part 2](https://www.youtube.com/watch?v=D2oQJXDMnS0)
-- [Date - Methods Part 3](https://www.youtube.com/watch?v=oyaaLXEojxg)
-
-
-## Symbols And Iterables (Required to understand Generators)
-
-- [Symbols Part 1](https://www.youtube.com/watch?v=9GnvEv8NuDM)
-- [Symbols Part 2](https://www.youtube.com/watch?v=6we4yfwKs2w)
-- [Symbol Iterator And For of Loop](https://www.youtube.com/watch?v=JW2_9b6w494)
-- [Custom Iterable Object](https://www.youtube.com/watch?v=GrgmnODN_Nc)
-
-## Generators And Modules
-
-- [Generators Part 1](https://www.youtube.com/watch?v=vS1rhGoRcCQ)
-- [Generators Part 2](https://www.youtube.com/watch?v=IvTSle8lDKw)
-- [Generators Part 3](https://www.youtube.com/watch?v=96yAeYvAhec)
-- [Generators Part 4](https://www.youtube.com/watch?v=ZPcasGEOXH0)
-- [Modules Part 1](https://www.youtube.com/watch?v=WEBDSlhX_Wo)
-- [Modules Part 2](https://www.youtube.com/watch?v=0WLa_FWoZpc)
-- [Modules Part 3](https://www.youtube.com/watch?v=yEg-Z6dzkwQ)
-
 ## JSON (Recommended)
 
 - [Intro And Why JSON?](https://www.youtube.com/watch?v=CLpmD7hxiBs)
